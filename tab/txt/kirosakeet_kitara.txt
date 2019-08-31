@@ -1,0 +1,214 @@
+Säkeistökierto: Hm/G/Hm/A/G x2
+                A/Hm/G/Hm/A/G/G/A/A
+Kertosäekierto: D/G/Hm/F#m
+Filli:          G/A
+Filli2:         A/G
+Bridge:         Hm/Hm/A/G
+
+
+Alkukikkailu v2.0 - Yritä olla korostamatta D-kieltä, soita rennosti
+|-2--2--2--0---2---3---3---2---0--------------------------------------|
+|-3--3--3--3---3---3---3---3---3---3--3--3--2---5---5---5---(2)-(2)(2)|
+|-2--2--2--2---2---0---0---0---0---4--4--4--4---4---4---4----2---2--2-|
+|-0----------0---0---0---0---0-----4--4--4--4-4---4---4---4--2---2--2-|
+|---------------------------------------------------------------------|
+|---------------------------------------------------------------------|pp
+
+Kokeilkaapa näin:
+e-2-2-2-0-2-2-2-3-3-3-2-0------------------------
+H-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-2-3-3-3-3-2-0-2-3
+G-2-2-2-0-2-2-2-2-2-2-2-2-4-4-4-4-4-4-4-4-4-4-4-4
+D---------------------------4-4-4-4-4-4-4-4-4-4-4
+A-----------------------------------------------
+E-----------------------------------------------
+Voi olla... Ken selon tuosta saa, hää kertokoho...
+(Kalmanpiiska)
+
+**RIFFI OKTAAVIA MATALEMPAA**
+
+Bridgen sähköskeba riffi: (Ajoitukset voi olla väärin, yllätys yllätys)
+e-------3-2-0---0-0-2---------------3-2-0---0------2-----------------
+H-3-2-0-------3-------0---3---3-2-0-------3--------------------------
+G--------------------------------------------------------------------
+D--------------------------------------------------------------------
+A--------------------------------------------------------------------
+E--------------------------------------------------------------------
+
+Eli, näin:         E5 E5 D5 D5 D5
+e----------------
+H----------------
+G----------------
+D---------5-3-2--
+A-2-5-3-2-------5
+E----------------
+(Kalmanpiiska)
+
+Tai olisiko näin?
+e----------------------
+H----------------------
+G----------------------
+D---------5-4-2---2----
+A-2-5-4-2-------5---5--
+E----------------------
+
+Alkuun tulee kertosäe kuvio ja sen jälkeen yhden kerran säekierron
+ensimmäinen rivi.. ja biisi menee läpi näin:
+
+Kertosäekierto x5
+Bridge         x4
+Filli2         x1
+Säekierto      x1 (alkuun se pikkupätkä)
+Filli          x1
+Kertosäekierto x4
+Filli          x1
+Bridge         x4 etc etc, tuolla pääsee jo mukavasti alkuun.
+
+                        
+Kato, se toimi.. Noniin, olkaa hyvat.
+
+Anteeksi että korjailin kättesi jälkiä.
+(Kalmanpiiska)
+
+
+
+
+
+-------------------------------Yksinkertaistettu tulkinta--------------------------------------
+
+Eli näinkin voi soitella ja laulella. Introa on eniten yksinkertaistettu. Soinnut on "noin" 
+kohdillaan. Aloittelivia bändejä ja harrastelijoita ajatellen tein tämän 
+Hienon Hienon Biisin"sovituksen".
+Kiitokset ylläolevan tekijöille. 
+                                                        
+5soinnut on voimasointuja ja E5 on 
+D-9
+A-7
+
+
+
+
+D                             Hm   A
+Onhan noita laulajia............ 
+D                             Hm   A
+ja tuulta pohjoisesta..........
+D                             Hm   A
+allapäisiä mielialojaa...........
+D                             Hm   A
+ylpeyttä, iloahahhaa..........
+
+
+A-4-4-4-4-4-4-4-3-3-3-3-3-3-3
+E-2-2-2-2-2-2-2-5-5-5-5-5-5-5
+   F#5                 A5   
+
+HIT IT!!!
+
+e-------------------------------------
+H------------------------------------
+G----------------------------------------
+D------------5-4-2----2-2-2-----------
+A-2--5-4-2--------5---------5---5-5-
+E----------------------------------------
+
+Toinen kitara  sama oktaavin ylempää, tai komppaa H5,F#5,E5,D5
+Basso voi soittaa esim:
+
+E-7-7-7-7-7-7-7-7-12-12-12-10---10-10-10
+
+
+Hm, G, Hm, G, A
+
+Hm             G    Hm     G                  A       
+     Ei väliä sillä mitä teimme nämä vuodet
+Hm         G                  Hm       G                    A
+     ja se kohtuu millä tätä armon maailmaa kohtelet
+A        Hm                G           Hm      A
+ei tao tyhjemmäksi eikä tiet pitene mihinkään
+G5                               A5
+kaukaisuuteen jossa meillä omamme
+
+
+D            G
+Ja kukat pöydälläsi
+Hm           F#m
+on onnen tuomia
+D                G
+kun nostat surulaulun
+Hm                 F#m
+ennen uneen itkemistä
+D                 G                      Hm                             F#m
+Lae-lae-lae-lae-lae-lae-lae-lae-lae-lae-laaaaaaa kirosäkeen: 2x
+
+ja taas
+
+A-4-4-4-4-4-4-4-3-3-3-3-3-3-3
+E-2-2-2-2-2-2-2-5-5-5-5-5-5-5     
+
++ RIFFI
+
+
+Sitten hakataan eri D:en muotoja hyvä tovi koko orkesterin voimin. 
+
+
+Hm             G             Hm       G                  A 
+   Ja yö valkoiseen silkkiin se käärii niin ja niin
+
+Hm           G              Hm     G                  A   +++
+   on ajat loppuneet sanat puhki kuluneet
+A                    Hm               G           Hm       A
+ei sumunriekaleisiin pysty piiloutumaan ei aamuun luottamaan
+G                              A
+kun nimet vähenee mustat hampaat lähenee ja
+
++++ =
+Livenä ainakin, toinen skeba aloittaa G--7h9-7h9-7h9-7h9-7h9 kiihdyttäen kohti 
+kertsiä. 
+
+
+D                  G      
+Onhan noita laulajia 
+Hm         F#m
+ja tuulta pohjoisesta..........
+D             G                
+allapäisiä mielialojaa,
+Hm         F#m
+ylpeyttä, iloa ja
+D                 G                      Hm                             F#m
+Lae-lae-lae-lae-lae-lae-lae-lae-lae-lae-laaaaaaa kirosäkeet: 2x
+
+ja taas
+
+A-4-4-4-4-4-4-4-3-3-3-3-3-3-3
+E-2-2-2-2-2-2-2-5-5-5-5-5-5-5     
+
++ RIFFI
+
+Loppuun bändin kitaraheeros voi vetää soolon ja muut komppaa:
+
+F#5 F#5 E5 D5 x 4
+
+
+Säkeistöjen soinnut paremmin kohdallaan ehkäpä näin:
+
+Hm, G, Hm, A, G
+
+Hm            G     Hm   A           G       
+     Ei väliä sillä mitä teimme nämä vuodet
+Hm         G         Hm      A              G            
+     ja se kohtuu millä tätä armon maailmaa kohtelet
+A      Hm         G          Hm     A
+ei tao tyhjemmäksi eikä tiet pitene mihinkään
+G            G      A            A
+kaukaisuuteen jossa meillä omamme
+
+....
+
+Hm       G             Hm       A              G
+   Ja yö valkoiseen silkkiin se käärii niin ja niin
+
+Hm           G       Hm    A         G                 
+   on ajat loppuneet sanat puhki kuluneet
+A               Hm         G       Hm      A            G
+ei sumunriekaleisiin pysty piiloutumaan ei aamuun luottamaan
+    G             A              A     
+kun nimet vähenee mustat hampaat lähenee ja

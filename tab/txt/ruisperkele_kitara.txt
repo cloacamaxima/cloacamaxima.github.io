@@ -1,0 +1,31 @@
+CMX: Ruisperkele
+Singleltä: Lepattajat (2003)
+Selvitteli Sami
+
+Intro/Kertsi
+|---------------------------------------|
+|---------------------------------------|
+|---------------------------------------|
+|-9-9-9-12-12-12-9-9-9-12-12-12-7-7-9-9-|
+|-7-7-7-10-10-10-7-7-7-10-10-10-5-5-7-7-|
+|-----------------------------------0-0-|
+
+Säkeistö
+F#m C#m Em Bm (toisessa säkeistössä vitossointua, siis F#5 C#5 E#5 B5)
+
+Bridge/Soolo
+E5 E5 (tauko) B5 B5
+
+Soolo perustuu täysin pentatoniseen Em-skaalaan elikkä (eli siis näihin säveliin):
+
+|-------------------------------12-15-|
+|-------------------------12-15-------|
+|-------------------12-14-------------|
+|-------------12-14-------------------|
+|-------12-14-------------------------|
+|-12-15-------------------------------|
+  E  G  A  B  D  E  G  A  B  D  E  G 
+
+Noilla soittelet sitten sitä sooloa. Lähtee tuosta D-kielen 14-välistä, elikkä E:stä.
+Tuo skaala oli hieman teoriaa niille jotka eivät tiedä näitä skaaloja :)
+Tuo Em/E5 soitetaan sitten seiskanauhalta A-kieleltä alkaen.

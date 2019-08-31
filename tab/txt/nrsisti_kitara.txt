@@ -1,0 +1,204 @@
+-------------------------------------------------------------------------------
+			     Nrsisti - Cmx
+-------------------------------------------------------------------------------
+
+Nonni. Täst lähtee.
+
+Normisäädöt skitassa.
+
+
+Ensin tää riffi 8 kertaa:
+
+e|---------------------------------|
+B|---------------------------------|
+G|---------------------------------|
+D|---------------------------------|
+A|---------------------------------|
+E|-0-0-2-0-3-2-0-2-0-3-2-0-2-0-2-3-|
+
+
+
+Sit tää riffi 12 kertaa (4 ekaa kertaa tulee pelkkä riffi, loput 8 kertaa verse 1:n sanojen kanssa):
+
+e|-----------------------------|
+B|-----------------------------|
+G|-----------------------------|
+D|-----------------------------|
+A|-----------------------------|
+E|-5-5-3-5--3--5-5-3-5--3--5-3-|
+
+Verse 1:
+
+Olen vankina tässä kaupungissa
+Joka vankilaksi rakennettiin
+Valvoa ja rangaista täytyy
+Niitä, jotka ei suostu kahleisiin
+Olen vankina ihmisen kehossa
+Sitä täytyy loputta raiskata
+Rääkätä, alistaa, silpoa
+Värssyin ja mutterein tuunata
+
+
+
+Sit tää 2 kertaa allaolevien sanojen kanssa:
+
+e|-----------------------------------------------------------------|
+B|-----------------------------------------------------------------|
+G|-----------------------------------------------------------------|
+D|-----------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-7-8-7-8-7-8-7-8-7-8-7-8-7-8-7-8-6-7-6-7-6-7-6-7-6-7-6-7-6-7-6-7-|
+
+Kun katson kasvojani
+Ne on kuivunutta nahkaa
+Kun etsin silmiäni
+Tuon graniittisen naaman keskeltä
+
+
+
+Sit tämä kuvio allaolevien sanojen kanssa:
+
+e|---------------------------------------------------------|
+B|---------------------------------------------------------|
+G|---------------------------------------------------------|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|-5-5-3-5--3--5-5-3-5--3--5-3-5-5-3-5--3--5-5-3-5--3--5-3-|
+
+Alan kuvitella, alan käsittää
+Ei kaiken loppu ole kaukana
+
+
+
+Sit tää pre-chorus-riffi:
+
+e|---------------------------------------------------------------------|
+B|---------------------------------------------------------------------|
+G|---------------------------------------------------------------------|
+D|-------------3--------------2--2--------------3--------------2--2--2-|
+A|---------------------------------------------------------------------|
+E|-1-1-1-0-1-1----1-1-1-0-1-1-------1-1-1-0-1-1----1-1-1-0-1-1---------|
+
+
+
+Chorus:
+
+D
+Muistot vyöryy ylitsesi
+Em
+Silmättömät lapset ajan
+D
+Käsissänsä kanniskellen
+Em
+Rakkaittesi nimiä
+D
+Tuota petit, tuota löit
+Em
+Tuon ajoit luotasi pilkaten
+D
+Tuolle annoit sydämesi
+Em                          D
+Hän heitti sen pois inhoten
+
+
+
+Sit taas introriffiä 8 kertaa:
+
+e|---------------------------------|
+B|---------------------------------|
+G|---------------------------------|
+D|---------------------------------|
+A|---------------------------------|
+E|-0-0-2-0-3-2-0-2-0-3-2-0-2-0-2-3-|
+
+
+Sit tää pre-verse2 -osa 4 kertaa allaolevien sanojen kans:
+
+e|-----------------------------------------|
+B|-----------------------------------------|
+G|-----------------------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-5--5--3-5-3-5--5--3-5-3-5--5--3-5-3-0---|
+
+Tämä maailma annettu
+Usko muuta oot mielisairas
+
+Sievästi viihdy siinä
+Meet ensi jaksossa helvettiin
+
+Tämä maailma annettu
+Tahdo muuta oot mielisairas
+
+Sievästi viihdy siinä
+Meet ensi jaksossa helvettiin
+
+
+
+Verse 2:
+(tämä 4 kertaa allaolevien sanojen kans)
+
+e|-----------------------------|
+B|-----------------------------|
+G|-----------------------------|
+D|-----------------------------|
+A|-----------------------------|
+E|-5-5-3-5--3--5-5-3-5--3--5-3-|
+
+
+Katson käsiäni ne on muumion kädet
+Tungen kurkkuuni mitä vaan
+Ja kieli maistuu paskalta suussa
+Olen hävinnyt tämänkin taistelun
+
+
+
+Sit tämmöne pre-chorus-osa:
+
+e|-----------------------------------------------------------------------------------------------------|
+B|-----------------------------------------------------------------------------------------------------|
+G|-9-9-9----9-9-9----9-9-9----9-9-9----9-9-9--9-9-9--8-8-8----8-8-8----8-8-8----8-8-8----8-8-8--8-8-8--|
+D|-9-9-9----9-9-9----9-9-9----9-9-9----9-9-9--9-9-9--9-9-9----9-9-9----9-9-9----9-9-9----9-9-9--9-9-9--|
+A|-7-7-7----7-7-7----7-7-7----7-7-7----7-7-7--7-7-7--7-7-7----7-7-7----7-7-7----7-7-7----7-7-7--7-7-7--|
+E|-----------------------------------------------------------------------------------------------------|
+
+
+
+Chorus:
+
+D
+Muistot vyöryy ylitsesi
+Em
+Silmättömät lapset ajan
+D
+Käsissänsä kanniskellen
+Em
+Rakkaittesi nimiä
+D
+Tuota petit, tuota löit
+Em
+Tuon ajoit luotasi pilkaten ja
+D
+Tuolle annoit sydämesi
+Em
+Hän heitti sen pois inhoten
+D
+Muistot vyöryy ylitsesi
+Em
+Silmättömät lapset ajan
+D
+Käsissänsä kanniskellen
+Em
+Rakkaittesi nimiä
+D
+Tuota petit, tuota löit
+Em
+Tuon ajoit luotasi pilkaten
+D
+Tuolle annoit sydämesi
+Em
+Hän heitti sen pois
+
+
+
+Se ois sit siinä. Kait. Aika prkeleen hvä biisi tmä nrsisti.

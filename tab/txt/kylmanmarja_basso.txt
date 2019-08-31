@@ -1,0 +1,30 @@
+Pääriffi:
+
+G---------------|    |---------------|
+D---------------|    |---------------|
+A---------------|x3  |---------------|x1
+E-0-0-0-2-0-2-3-|    |-5-5-3-2-0-3-2-|
+
+Joku halukas saa jatkaa selvittelyä, mutta tässä on alkua. 
+
+Sitten ois se väliosa jokseenkin malliin:
+
+G-----------------|
+D-----------------|
+A-----------------|
+E-5-5-5-5-3-3-3-3-|
+
+Välille tulee pääriffiä,ja jatkuu:
+
+G-----------------------------|
+D-----------------------------|
+A-2--4-5----------------------| x2
+E--------3-3-3-3-3--2-2-2-2-2-|
+
+tää A.W.:n basso taitaa olla D-vireessä tai sitten sillä pirulaisella on viisikielinen...
+
+Ei muuten ole. Se soitetaan oktaavia ylempää hyvä mies. (asiantuntija huom.)
+
+D-0-2--2-5-2--2-0-2--2-5-2--2-0-2--2-5-2--2-x-x-x-x-x-| x3
+
+ja sitten neljännen kerran sama mutta lopetus vähän dubbaa...

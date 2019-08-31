@@ -1,0 +1,21 @@
+Laulun aikana soiva riffi jota soitetaan
+miltei koko biisin ajan:
+
+G ---------------
+D -----2---------
+A ---3---3-5-2---
+E -5-----------3-
+
+no ehkäpä on parree
+soitella näin:
+(jos ei sormistaan niin noppee)
+G----------------
+D-----2---0------
+A-0-3---3---2----
+E-------------3--
+
+(haha)
+
+Välipimputuksessa on nämä:
+
+G#, F#, E, G#, F#, E, E, E, E

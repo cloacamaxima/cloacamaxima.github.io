@@ -1,0 +1,46 @@
+Hm G Em F#
+
+Kerto:
+Hm Hm/G Hm/Em F#
+Hm Hm/G Hm/E F#
+Hm G Em F#
+
+Kitaranäppäily:
+
+e|--------2---|
+H|--2---2---2-|
+G|4---4-------|
+Hm:ssa G:ssä ja Em:ssa tuo luuppaa
+mutta sitten F#:ssä:
+e|--------2---|
+H|--2---2---2-|
+G|3---3-------|
+
+Nämä soinnut olivat aiemmin ilman noita Hm/-sointuja. 
+Pianolla kuulostaisi olevan aina sama Hm oikeassa kädessä
+ja alun säestyksessä soitetaan aina Hm-kolmisointu 
+(paitsi viimeisessä F#-soinnussa ei ollenkaan). 
+Korjailkaahan eteenpäin, jos tässäkin vielä puutteita. 
+
+Lisäsin tuon näppäilyn vain tuohon. -david
+
+
+Sikäli kuin itse ymmärrän notaatiota, niin lisäisin selvennystä. 
+Voi olla siis vain kyse notaatiosta. Ilmaisisin näin:
+
+Välisäestys
+Bm Bm/G Bm/E F#
+
+Säe
+Bm G Em F#
+
+Kertosäe
+Bm Gmaj7 Em9 F#
+Bm Gmaj7 E7(add9) F#
+Bm G Em F#
+
+Eli jos kuulen oikein, ja edellisen merkinnän hengessä, 
+välisäestyksessä siis tulee B mollia vaihtuvin bassoin,
+kertosäkeessä kaksi sointua päällekäin jolloin mieluummin
+merkitsisin alemman mukaan näin ei-virtuoosikitaristina.
+-Harri

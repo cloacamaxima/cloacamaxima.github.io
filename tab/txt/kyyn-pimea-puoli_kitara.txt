@@ -1,0 +1,31 @@
+A-osa: | D F#m | G | 2x jonka jälkeen | D Em | G | ja sitten vielä kerran ensimmäinen sointukuvio.
+B-osa: | Em | D A |
+C-osa eli kertsi: | G Dm | C | 3x ja sitten tulee pari C-sointua joiden nimistä en tiijä. Ne menee jotenkin tälleen:
+e|-0---0-|
+h|-0---0-|
+G|-0---0-|
+D|-2---0-|
+A|-3---3-|
+E|-X---X-|
+
+-Muusikonrenttu
+
+Lisäisin vain, että ekan versen lopussa:
+
+| D F#m | G |
+siis sotkettiin luineen nahkoineen takaisin maan poveen
+
+Em        D
+poloinen, poloinen.
+
+Onko muuten kertsin Dm varmasti Dm?
+---
+Voipi olla F6:
+e|-1-|
+H|-3-|
+G|-2-|
+D|-3-|
+A|-X-|
+E|-X-|
+
+-late

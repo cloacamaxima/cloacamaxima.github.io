@@ -1,0 +1,94 @@
+Basso:
+G|------3-----3--------3-----3---------2-----2---------2-----2---|
+D|--------0----0---------0-----0---------0-----0---------0-----0-|
+A|--5--------------5---------------5---------------5-------------|
+E|3---3-----3----3---3-----3-----3---3-----3-----3---3-----3-----|
+(Intro + 1.säkeen aikana toi vedetään kai bassolla. 2.säe kitaralla. Kai?)
+
+Bridge:
+G|------3-----3--------2-----2---------3-----3---------2-----2---|   
+D|--------0----0---0-----0-----0---------0-----0---------0-----0-| 
+A|--5------------3---3-----3-------5---------------5-------------|  
+E|6---6-----6--------------------3---3-----3-----3---3-----3-----|x2
+(Tämä on vain kylmä veikkaus, kun en kuule varman päälle muita kuin ykköset.)
+
+(Alkuaine luettelon sävel on sama, kuin alussa, paitsi, että se alkaa 4.kieli 2.ssa ja päättyy bridgen alkuun. Tarpeeksi epäselvästi selitetty? Kannattaa kuunnella biisistä.)
+
+
+Kaipasit kaikkea-kohta:
+Kitara 1:
+E|----------------|
+H|----------------|
+G|3-3-------3---2-|
+D|5-5---5---3---2-|
+A|5-5---5---1---0-|
+E|------3---------|
+(Taas kerran, ei tietoa, mutta näin minä sen soitan)
+
+Kitara 2:
+E|--------------------------------|
+H|--------------------------------|
+G|--------------------------------|
+D|5-5-------------5-5-------------|x4
+A|5-5-------------5-5-------------|
+E|3-3-------------3-3-------------|
+(Wow! oli ihan pakko kirjottaa tosta tabikset)
+
+2.säe sama kuin alku, mutta kitaralla.
+Basso siinä menee näin:
+G                                            F
+�?lä koske kun et tiedä, suunta vaiko tilavuus
+G
+Valominuuteissa mitattava kylmä etäisyys...jne
+
+Post käynnistäkää moottorit-kohta:
+Kitara 1:
+E|------------------------------|
+H|------------------------------|
+G|3-3-3-3-3-3-3-3---6-6-6-6\2-2-|
+D|5-5-5-5-5-5-5-5---8-8-8-8\4-4-|x3
+A|5-5-5-5-5-5-5-5---8-8-8-8\4-4-|
+E|------------------------------|  
+
+Kitara2
+(Sama kuvio kun kitara1:llä joten kirjoitan vain soinnut. Ihan barre-otteella vaan)
+G      A#      F# 
+
+sitten..
+Basso:
+G                                          F G
+Kerran muistan tietäneeni kaiken ikuisuudesta
+A#               A  A#  C
+Kerran osanneeni kaiken taivaanmekaniikasta
+...ja niin edelleen
+
+(Pianon melodiasta en saanut millään kiinni, mutta yritys jatkuu. Jos joku sitä osaa valoittaa niin muokkausta vaan.)
+
+Soolon basso sama kuin "kerran luulin tietäväni"-kohdassa.
+Tämän jälkeen:
+Kitara1: (Barre)
+G G G A A A F#F#G G A A A F#F#F# G G A A F#F# X4
+
+Kitara2:
+E|--------------------------------------------|
+H|--------------------------------------------|
+G|3-3-3-5-5-5-2-2-3-3-5-5-5-2-2-2-3-3-5-5-2-2-|
+D|5-5-5-7-7-7-4-4-5-5-7-7-7-4-4-4-5-5-7-7-4-4-|
+A|5-5-5-7-7-7-4-4-5-5-7-7-7-4-4-4-5-5-7-7-4-4-|
+E|--------------------------------------------|
+
+Lopun basso:
+G|--------------7--------------------
+D|----------9------------------------
+A|----7--5/7-------------57-5-7\5-2--
+E|5-----------------5--58------------
+
+G|----------------7---------------------------|
+D|------------9-------------------------------|
+A|-----57--5/7-------------57-5-7\5-2-------1-|
+E|5--58---------------5--58-------------------|
+ja loppuun vielä A
+
+Tossa bassossa on mielestäni pari perusvirityksestä pois jäävää (liian matalaa) sointua joten jätin ne pois.
+
+Loppu

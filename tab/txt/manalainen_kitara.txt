@@ -1,0 +1,90 @@
+  intro:
+  E--3----------------------0-------0-------------
+  H--3------------1/3/1---1-0-1---1-0-------------
+  G--0----------2-------2---2---2---4--4-2-0------
+  D--2--2-0-----2-----------3-------5-------0-----
+  A--2------3-2-0-----------3-------5-------------
+  E--0----------------------1-------3-------------
+
+  E-------------------------0----------0----------
+  H--0-------------1----1---0-1/3/1--1-0----------
+  G--0----------2----2------2-------2--4--4-2-0---
+  D--2--2-0-----2-----2-----3----------5-------0--
+  A--3------3-2-0-----------3----------5----------
+  E-------------------------1----------3----------
+
+  E-------------------------0----------0----------
+  H--0------------1/3/1--1--0-1-----1--0--------0-
+  G--0---------2--------2---2---2------4-3/5/4-0-0
+  D--2--2-0----2------------3-----3----5----------
+  A--3-----3-2-0------------3----------5----------
+  E-------------------------1----------3----------
+
+  E-------------------------0----------0----------
+  H--0-------------1----1---0-1/3/1--1-0----------
+  G--0----------2----2------2-------2--4-2-4------
+  D--2--2-0-----2-----2-----3----------5-2-4-2----
+  A--3------3-2-0-----------3----------5-0-2-2----
+  E-------------------------1----------3-----0----
+
+  E-------------------------0----------0----------
+  H--0------------1/3/1---1-0--1---1---0----------
+  G--0----------2-------2---2---2------4----------
+  D--2--2-0-----2-----------3----3-----5----------
+  A--3------3-2-0-----------3----------5----------
+  E-------------------------1----------3----------
+
+***Nuo intron Cmaj7:at on kyllä minun korvaani Em. Nuo äffät ja geet taasen
+   soittaisin näin:
+
+ 
+  E--3---------------------(1)-----(3)------------
+  H--3------------1/3/1---1-1-1---1-3-------------
+  G--0----------2-------2---2---2---4--4-2-0------
+  D--2--2-0-----2-----------3-------5-------0-----
+  A--2------3-2-0-----------x-------x-------------
+  E--0----------------------1-------3-------------
+
+
+Em         Am      F    G
+talviveden alla on hyvä palella
+ja vielä kun olin elossa luulin olevani oikeassa
+luulin tuntevani pelon ja maistaneeni verta
+mutta kylmissäni parun keskeneräinen jumala
+
+     G            C    F#           H
+     suhteellinen aika kestää liian kauan
+olen kyllästynyt raakuuksiin koska ne ovat tosia
+luulin tuntevani pelon ja maistaneeni verta
+mutta kylmissäni parun keskeneräinen jumala
+
+Kerto:
+A  C  H  A  F     E G
+ma------nalainen     x4
+
+(E G) | A H | C D | E  x3
+
+ne tulevat luisina rankoina
+ovien suissa istumaan
+ne tulevat laulaen äänellä
+yhdeksän kuolemantaudin
+
+G          C      F#    H
+armon asunnoilla verivainioilla
+katso minuun kun puhun katso kuinka vapisen
+ei ole tietä sisälle ei tapaa tulla ulos
+mutta on kaivo ja vesi yllämme alttarivaatteet
+
+Kerto:
+A  C H A   F     E G
+ma------nalainen     x4
+
+A H | C D | E
+
+talviveden alla on hyvä palella
+ja vielä kun olin elossa luulin olevani oikeassa
+luulin tuntevani pelon
+
+Hauskoja soittohetkiä!
+
+(Intro: Juha Lukkarinen)

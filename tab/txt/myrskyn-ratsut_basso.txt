@@ -1,0 +1,40 @@
+Alussa ulinaa.
+Basso aloittaa introssa näin:
+
+A|-0---0-0---0---0-0---0---0-0---5---5-5-5---|
+E|---------3---------3---------3-------------|
+
+Ja jatkaa näin:
+
+A|-0---0-0---0---0-0---0---0-0---5---5-5-----|
+E|---------3---------3---------3-------------|
+
+A|-8---8-8-----8---8-8-----|
+E|-------------------------|
+
+Näiden jälkeen lähtee:
+
+|A|D|C|H|  < Tuon G:n pitäisi olla H.
+-no nyt se on H.
+
+joka jatkuu koko säkeen.
+
+Väliosa:
+
+|A|G|A|G|A|G|D|
+Niin olet minusta kaukana
+|A|G|A|G|A|G|D|F|
+Niin olet minusta kaukana
+
+Kertsi:
+
+|C|H|A|F|
+Kun päivä nousee...
+|C|H|A|G|
+Ne hengittävät...
+ 
+Ja niin se männöö etteenpäin. 
+Pitkäähän lapset kivaa.
+Ja korjatkaa virheet joita varmasti on.
+
+-intoa pistetty vähän uuteen uskoon ja jotkut soinnut olivat Hoota ennemmin kuin Geetä.

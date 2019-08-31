@@ -1,0 +1,44 @@
+Intro
+
+a:-2-2-0-2-2-0-2-2-0-2-2-0-2-2-0-2---0-2--------0-2----
+e:---------------------------------3-----0-0--3-----0-0
+
+Nuotti ennen verseä on G.
+
+Versen riffi:
+
+d:-2-0---0-0-----------------
+a:-----2-----2-0---0-2-------
+e:---------------3-----0-0--3
+
+Seuraavaan osaan siirryttäessä kerrataan verseriffin loppua neljä kertaa:
+
+a:--0-2--------
+e:-3-----0-0--3
+
+"Sinulle jota en vielä tunne..."
+
+d:---------------------------------
+a:----------5--------7-------------
+e:-7-7--5-7---7--5-5---5--3-3--0--2
+
+Ensimmäisen kertosäkeen jälkeinen 7/4-riffi
+
+a:-4-----4-4-----7-7-6--
+e:---4-5-----4-5-------7
+
+Lopun kitarasoolon aikana basso kulkee about näin
+
+e:-7---5---3---0-2-
+
+And that's all about that...soitelkaa ilolla...
+jos on oikein...
+
+Korjasin tuon akustisen kohdan -V.A
+
+Lopussa olevassa kitarasoolossa basso kuullostaa soittavan yksittäisiä nuotteja, 
+olisiko kenelläkään tietoa millaisella sointukululla?
+-AapoAlas (Lisäsin samalla pientä tarkentelua ja muuta turhaa paskaa.)
+
+Korjasin oman virheeni ja vastasin omaan kysymykseeni, tab taitaa olla nyt täydellinen.
+-AapoAlas

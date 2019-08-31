@@ -1,0 +1,57 @@
+intro:
+C Cmaj7 032003| Fmaj7 | x2
+Eli kolmas sointu, kai sillä nimikin on? 
+Soitetaan nopeasti Cmaj7 perään. 
+Sointu on sama kuin Cmaj7, jossa pikkurilli käy nopeasti e- kielellä.
+(Se taitaa olla Cadd9 tuo 032003.)
+
+     C              Dm        Em             Am
+entä nyt, kun iskee ukonvaaja taivaanrannan taa
+     C               Dm         Em        Am
+entä nyt, kun kasvaa viljapelto vierasta viljaa
+         G               Fmaj7
+se katsoo maasta kasvoin kivisin...
+     C              Dm        Em            Am
+entä nyt, kun alkaa sataa siniseltä taivaalta
+     C               Dm        Em             Am
+entä nyt, kun laskee kevätpuro väärään
+vuodenaikaan
+     G              Fmaj7   E
+vettyneelle maalle, pettyneelle maalle
+
+kerto:
+Am        C
+ja laulut huutaa ulvoo
+G             Am
+niinkuin tuli salamoi
+C            G
+laulut aukoo suutaan
+Fmaj7
+eikä aamu tulla voi
+
+C Cmaj7 032003| Fmaj7 |
+
+     C               Dm       Em                Am
+entä nyt, kun löydät sydämesi tyhjän vieraasta
+vuoteesta
+     C              Dm             Em         Am
+entä nyt, kun vaunu valjaaton jää yksin seisomaan
+      G             Fmaj7   E
+vettyneelle maalle, pettyneelle maalle
+
+Am | C | G | Am | C | G | F7 | F7
+
+   Am          Em
+...ihmisten ja enkelten kielin
+F            C    G   Am
+soi helisevä vaski
+              Em      F  C  G Am
+vaan ei sillä ole uskoa
+            Em             F
+ihmisten ja enkelten kielin
+             C   G  Am
+soi kilisevä kulkunen
+              Em     F
+vaan ei sillä ole rakkautta
+
+kerto

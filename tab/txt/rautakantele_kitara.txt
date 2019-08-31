@@ -1,0 +1,186 @@
+RAUTAKANTELE
+
+Bassoriffi 1 (alussa ja säkeistöissä):
+
+D|--------2-0---------
+A|-0--2-3-----3-2-0---
+E|------------------3-
+
+Kitarariffi 1: 
+
+Tätä soitetaan alussa ja myös
+siinä missä alkaa eka säkeistö.
+G|--------0-----------
+D|----------2-0---0---
+A|-0--2-3-------3-----    
+E|------------------3-   
+
+Kitarariffi 2: 
+
+Toinen kitara soittaa tätä alussa
+ennen säkeistöä.
+e|-0--3-5-66--0--3-5-653--
+B|------------------------
+G|------------------------
+
+Kitarariffi 3:
+
+Tämä muuten samanlainen kuin edeltävä kitarariffi,
+mutta oktaavia matalemmalta. Tätä soitetaan 
+ainakin 1:ssä säkeistöissä ja melko hiljaisella äänellä. 
+
+D----5-7-88-----5-7-875-------
+A-7----------7----------------
+E-----------------------------
+
+
+Kitarafilli 1:
+
+(Tämä ja kitarafilli 2 soitetaan ennen säkeistöä.)
+
+F5 G#5 A5 B5 2x ja kolmannella kerralla lopeta G#5:n.
+Basso menee myös tämän mukaan.
+
+
+Kitarafilli 2:
+
+Toinen kitara soittaa tässä tällaista...:
+                 
+A-8-8-8-8-8-8-6--6-|-5-5-5-5-5-5-4--4------ kolmannella kerralla
+E------------------|----------------------- lopeta viivalle.
+
+
+Kitarariffi 4:
+
+Kertosäkeessä soitettava riffi menee tähän
+tyyliin:
+(Alleviivatut ovat dempattuja.)
+
+C5 C5 C5 C5 C5 G5 G5 G#5 G#5 G#5 F5 F5 F5 F5 F5 F5 G5 G5 G5 G5
+   -- --    --    --     --- ---    -- --    -- --    --    --
+Tässäkin basso menee samalla tavalla.
+
+
+Säkeistö 1:
+-----------
+12x Kitarariffi 1 + bassoriffi 1 + kitarariffi 3:
+
+Monta vuotta vuotta myöhemmin, kun tulet matkoiltasi,
+olenko pitänyt sanani, olenko saanut sen hauenleuan,
+vai olenko kaatunut onnettomuuksiin, haiseeko henkeni pelolta?
+
+Säkeistö 2:
+-----------
+Kitarafilli :
+
+F5         G#5    A5               B5
+Anna minun laskea käteni vielä kun ehdin,
+
+F5           G#5    A5         B5 
+kun se vielä tuntuu ihmisen elämältä,
+
+F5         G#5
+Anna minun huokua haavetta
+
+-------------------
+Tähän väliin tulee 4x:
+Bassoriffi 1 + kitarariffi 1 + kitarariffi2.
+-------------------
+
+Kertosäe:
+---------
+Kitarariffi 4:
+(Otteet on jo merkitty tähän, mutta
+ei se mitään..:)
+
+C5        G5  G#5    F5            G5 
+Lävistä minut tässä, opeta minulle nöyryys,
+
+C5        G5  G#5     F5        G5 
+pujota minuun kielet, soita säveleni.
+
+--------------------------------------
+Tähän väliin tulee 8x:
+Bassoriffi 1 + kitarariffi 1 + kitarariffi2.
+--------------------------------------
+
+3x Kitarafilli 1 + Kitarafilli 2:
+--------------------------------------
+
+Säkeistö 3:
+-----------
+Tässä tulee ainoastaan bassoriffi 1
+(jollei vingutuksia lasketa mukaan)
+ja se soitetaan 12 kertaa.
+
+Metsän väki on kaupungissa sokea, perkele sen tänne johti,
+antoi lapion käteen, pani kaivamaan hautaa,
+ikävyydelle muistomerkkiä.
+
+Säkeistö 4:
+-----------
+Tässäkään ei ole kuin basso ja se menee kitarafilli 1:n mukaan näin.
+
+F5                  G#5  A5                        B5  
+Maakuopissa höyryää runonjalat, valtateillä etenee projektit,
+F5                  G#5     A5                   B5
+tuhoon ja kadotukseen, jota voitoksi kutsutaan     minä
+F5                         G#5
+kutsun,   kutsun,   kutsun sinua...
+
+4x: 
+Basso 1 + kitarariffi 1 
+
+...matkoiltasi
+
+Tässä tulee kitarariffi 2:n tilalla
+tällainen.
+e|-0--3-5-8---0--3-5-8----
+B|------------------------
+G|------------------------
+
+
+Kertosäe:
+---------
+Kuulostaa ihan kuin toinen kitara soittaisi tässä
+laulun mukaan sooloa... mutta tiedä siitä sitten...
+
+----------------------------------------------------
+Ps. Tämä on ensimmäinen tekemäni tabulatuuri, joten en tiedä
+    ottaako tästä mitään selkoa, mutta pitäisi kuitenkin
+    olla melko oikein. Jos et pidä tästä tai haluat muuten vain
+    kommentoida niin osoite on: ToBa@sunpoint.net. 
+
+T:Tommi L.    
+
+
+Pari riffi ehdotusta  -Tuomas
+E|-----------------------------------------------------|
+B|-----------------------------------------------------|
+G|--------9-12-9--------------------9-12-9-------------|
+D|-----12--------12-10-12--------12--------12-10-12----|
+A|-0----------------------10-0----------------------10-|
+E|-----------------------------------------------------|
+ |                         		       
+E|-----------------------------------------------------|
+B|-----------------------------------------------------|
+G|--------12----14----15-15---------12----14--15-14-12-|
+D|--------14----14----14-14---------14----14--14-14-14-|
+A|-0----0--------------------0----0--------------------|
+E|-----------------------------------------------------|
+
+
+E|-----------------------------------------------------|
+B|-----------------------------------------------------|
+G|--------9-12-9--------------------9-12-9-------------|
+D|-----12--------12-10-12--------12--------12-10-12----|
+A|-0----------------------10-0----------------------10-|
+E|-----------------------------------------------------|
+ |                     			      
+E|-----------------------------------------------------|
+B|-----------------------------------------------------|
+G|--------5----7----8-8-------------5----7----8--7--5--|
+D|--------7----7----7-7-------------7----7----7--7--7--|
+A|-0----0--------------------0----0--------------------|
+E|-----------------------------------------------------|
+              

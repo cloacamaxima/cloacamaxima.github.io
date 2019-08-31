@@ -1,0 +1,93 @@
+Standard tuning (EADGBE)
+
+Rytmi on simppeli, kuulet levyltä..
+
+Intro:
+Hm,  Hm,  Hm,  Hm,  A,  G,  D,  A,  G,  G,
+
+Intron sähkökitara thingie: (b=bend, r=release)
+   Hm             Hm            Hm           Hm
+E |---------------------------------------------|
+B |-------5b6r5-3-5b6r5-------------------------|
+G |---------------------------------------------|
+D |---------------------------------------------|
+A |---------------------------------------------|
+E |---------------------------------------------|
+
+   A              G             D            A
+E |---------------------------------------------|
+B |-------5b6r5-3-5b6r5-------------------------|
+G |---------------------------------------------|
+D |---------------------------------------------|
+A |---------------------------------------------|
+E |---------------------------------------------|
+
+
+         Hm           A
+Kun olit sanonut mitä sanoit
+       G          G
+kuulin tuhannen oven
+D           A          G                G      
+varjoisilla käytävillä vääjäämättä sulkeutuvan.
+
+         Hm           A
+Kun olit sanonut mitä sanoit
+     G             G
+näin risteytyväin teiden mutkiin
+D          A         G        G
+lakastuvan tuhannen tienviitan.
+
+   G#m           E
+Ja räpäytit vain silmiäsi
+F#             G#m
+katsoit hetken muualle
+    G#m        E                 F#         F#
+kun sukupolvia kuoli ja kaupungit sortuivat.
+
+Kerto:
+Hm         D         A          G
+Väistyköön päivät ja kalvetkoon kuut,
+Hm         D            G   A
+riittäköön rakkaus vain aamuun.
+Hm        D       A         G
+Sulkekoon kuolema pettäjäin suut,
+Hm      D        G    A              
+en usko rakkauden     haamuun, kalpeaan.
+
+
+Hm,  Hm,  Hm,  Hm,  A,  G,  D,  A,  G,  G
+
+
+         Hm           A
+Kun olit sanonut mitä sanoit
+     G          G          D
+minun sisälläni kuoli joku lapsi,
+     A          G           G
+joka uskoi loputtomaan maailmaan.
+
+         Hm           A
+Kun olit sanonut mitä sanoit
+     G           G
+olin vapaa tänne kulkemaan
+      D           A          G          G
+missä jokainen on kohtalonsa kanssa yksinään.
+
+      G#m          E        F#            G#m
+Siitä päivästä jäi pala hajoavaa taivasta kurkkuusi
+   G#m       E          F#      F#
+ja otsallesi kuutamosta sirpale,
+      G#m          E          F#         G#m
+siitä päivästä jäi merentumma laine silmäkulmiisi
+   G#m        E         F#       F#
+ja tuulenpesä asunnoksi kylmyyden.
+
+
+Kerto:
+Hm         D         A          G
+Väistyköön päivät ja kalvetkoon kuut,
+Hm         D            G   A
+riittäköön rakkaus vain aamuun.
+Hm        D       A         G
+Sulkekoon kuolema pettäjäin suut,
+Hm      D       G    A              Hm
+en usko rakkauden    haamuun, kalpeaan.

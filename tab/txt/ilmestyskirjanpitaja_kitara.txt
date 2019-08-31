@@ -1,0 +1,40 @@
+Tämä mainio biisi koostuu kahdesta eri riffistä, joita soitellaan
+peräjälkeen n+1 kertaa, tarkan määrän kuulee itse kukin levyltä.
+
+Tässä en myöskään lähde mitään tarkempaa tablatuuria väsäämään,
+vaan listaan soinnut, joita kaikki voivat soitella peräkkäin
+niin kauan, että osaavat rytmin.
+
+Riffi1:
+-------
+
+        EADGBe
+	------
+G:      320033
+A7sus4: x02033
+G/B:    x20033
+Cadd9:  x32033
+
+Riffi2:
+-------
+
+Näitä sointuja en millään viitsisi lähteä nimeämään, kun tuo teoria
+ei ole liian hallussa. Jotain a:lla alkavia ne kai olisivat.
+
+   - koska kukaan ei enää päivitä Turkoosin
+     bassotabulatuuria, näen tässä mainon tilai-
+     suuden ruveta tappelemaan noiden sointujen
+     merkinnöistä
+
+	EADGBe
+	------
+eka:    x07700      Asus4add11     
+toka:   x07600   ** AmAdd11  
+kolmas: x0121200 *  Asus4/11
+neljäs: x0121100 *  A6sus4/11
+
+ /11 on hiukan kyseenalainen kolmannessa soinnussa, koska tarkoitus on korostaa, että soinnussa nimenomaan on 7. Kaksi numeroa peräkkäin näyttäisivät liian oudolta, joten erotin ne tuolla kauttaviivalla. Eipä tuosta sointu nimeämisestä nyt niin hyötyä ole, teinpä vaan perverssiyttäni. 
+
+* Kyseessä ei ole 8-kielinen kitara, vaan 12. ja 11. nauha kitarasta.
+** Itse itseäni korjaten, vaihdoinpa vitosen seiskaksi
+

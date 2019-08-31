@@ -1,0 +1,57 @@
+intro:
+-0--------        -1--------
+-1--0-----        -3--1-----
+-2----0---    x3  -2----2---
+-2------0-        -0------3-
+-0--------        -x(0)-----
+-x(0)-----        -x(1)-----
+
+
+soolo:
+-8-7---5------------------- ----------------------
+-----5---8-------5-6-5-6--- ----------------------
+-----------5-5-7---------7- -5>4-4>2-2------------
+--------------------------- ----------------------
+--------------------------- ----------------------
+--------------------------- ----------------------
+                            (toisella kerralla)
+
+Am       Dm          C           G/H
+Olisitko ihmeellinen laulu onnen sävellajissa
+Am       Dm             C               G/H
+Tai viljapelto auringon kajossa kultainen
+Am          Dm           C          G/H
+�?ärimmäinen haaste minun väsyneelle mielelleni
+Am           Dm             C          G/H
+Siellä missä tähdet piirtää pääsi ylle korkeinta 
+
+kruunua
+
+Am  G  Am  G  Am   G    Dm        
+Niin               olet minusta kaukana
+Am  G  Am  G  Am   G    Dm      F
+Niin               olet minusta kaukana
+
+C         G/H          Am             F
+Kun päivä nousee lepää myrskyn ratsut riennostaan
+   C           G/H      Am      G
+Ne hengittävät odottaen yötä ja uutta elämää
+
+Am  Dm  C  G/H
+
+Am              Dm           C          G/H
+Talven peittoon hautautuneet maani yötä odottaa
+Am           Dm        C         G/H
+Näitä mietin keskenäni osaamatta lopettaa
+Am          Dm        C             G/H
+Rikkinäiset ajatukset puheista vain pahenee
+Am               Dm         C            G/H
+Kaukaa niin kuin veden alta kuulen pelon äänen
+
+Am  G  Am  G  Am  G    Dm      F 
+Niin              olen sinusta kaukana
+
+C         G/H          Am             F
+Kun päivä nousee lepää myrskyn ratsut riennostaan
+   C           G/H      Am      G   
+Ne hengittävät odottaen yötä ja uutta elämää

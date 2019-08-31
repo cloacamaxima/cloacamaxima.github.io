@@ -1,0 +1,133 @@
+alkuriffi:
+
+E|---------------------    kolme kertaa
+B|---------------------    ja neljännellä
+G|4---4---4------------    jää 5 -kohdasta soimaan.
+D|4---4---4---5---2----        5
+A|2---1---0---5---2----        3
+E|------------3---0----
+
+Käviskö siihen alkuriffin päälle tämmönen kitaranäppäily: 
+
+E|----------------------------------------
+B|----------------------------------------
+G|----------------------12---------9---------
+D|----9---11----12-----------------------------
+A|-------------------10-----10---7-----9---------
+E|--7---9----10-------------------------------
+
+Taneli soittaisi ennemminkin näin:
+e|------------------------------------------------
+B|------------------------------------------------
+G|------------------------12----9---------------
+D|----9----11----12----------------------------
+A|--------------------10-----7----7--7s9------
+E|--7----9----10--------------------------------
+
+säkeistö 1:
+
+Hm                A                         G
+Säde valon vaeltaa yli kasvojesi vieraan maan
+
+            D
+pian heräät aamuun kalpeaan
+
+Hm                  A
+mietit mitä tänään teet
+
+                         G
+missä sydämesi harhailee
+
+               D
+kun nuo kaikki mykät esineet
+
+Hm       Em         G     A
+jotka ei huoneesta  kotia tee
+
+
+bridge:
+
+D          Hm
+liu'ut yli kylmän lattian
+
+F#m            G
+avaat silmäsi kuin ikkunan
+
+D           Hm
+vesi vihmoo harvaan kattoja
+
+F#m     G             A
+linnut lähtee jättää tämän kaupunkisi 
+
+(ja sitten alkuriffiä kaksi kertaa)
+
+
+chorus:
+
+Em          D              Am
+pian vaipuu lumen peittoon maa
+
+          C
+sitä ehkä valkeus lohduttaa
+
+Em           D             Am
+sinä kaipaat rakastettavaa
+
+            C
+kaipaat unohduksen humalaa
+
+Em         D               Am
+joka aamu hieman julmempaa
+
+              C
+kaipaat särjettyjen jumalaa
+
+Em          D             Am   
+joka aamu hieman julmempaa peläten
+
+C
+kohta alkaa uusi päivä
+
+G#                    F
+horisontin takaa sarastaa
+
+
+1säkeistö 2:
+
+Hm             A
+säde valon vaeltaa
+
+                          G
+yli vartalosi kylmän maan
+
+             D          Hm
+ootko luovuttanut kokonaan
+
+                        A
+kun kaikki pelko sisälläsi
+
+                          G
+uskoo vain kylmyyteen ulkopuolella
+
+         D     A           Hm
+ja sydän puhki jäätynyt anelee
+
+        Em         G          A
+oisinpa poissa mut pois pääse en en en
+
+
+bridge:
+
+D                Hm
+jos kaksi kaatuu eteen kauneuden
+
+F#m              G
+toinen toistaan yössä palvellen
+
+D                Hm
+jos kaksi kaatuu eteen kauneuden
+
+F#m              G      A
+kohta pettää se heidät heleästi nauraen
+
+(kolme kertaa alkuriffiä ja sitten kertosäe)

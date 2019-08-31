@@ -1,0 +1,47 @@
+Soittele alussa tällasilla soinnuilla, sama kertosäkeessä:
+
+D:x57775
+F:x81010108
+C:x35553
+
+D-F-D-C-D
+
+ja kuuntele ite tarkemmin miten menee.
+
+kakkoskitara soittaa tällasta aika monessa kohtaa:
+
+G---5------------------------------
+D-7---7--5h7p5\4p0---0---5h7p5\4p0-
+A------------------3---3-----------
+
+"lokakuun aurinko.."
+
+D-C#min7(x46444)-C-G-A. kaikki barreja, en oo ihan varma tuosta C#:stä 
+
+
+"yöllä kun yritän unohtaa..", "ei minun tarvitse.."
+
+b-----10-----10-----10------10--- x 2
+g-9-12---9-12---9-12---9-12------
+
+b-13---10--13---10--13---10--13---10---
+g----12-------12------12-------12----
+
+b-----10-----10-----10------10--- 
+g-9-12---9-12---9-12---9-12------
+
+soolo:
+e------------------------------  x2
+b------10-12-10----------------
+g-9-12----------12-9-12-9-7-9--
+
+tremolo-osa, katso tahti itse:
+e-------------------------15-15-15-15------
+b-13-13-13-13-13-13-13-13-15-15-15-15-15-15- 
+
+e------------------------------ 
+b------10-12-10----------------
+g-9-12----------12-9-12-9-7-9--
+
+
+Todennäköisesti virheitä, väsyneenä ja kiireisenä tehty. ottakaa selvää.

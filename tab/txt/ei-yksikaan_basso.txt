@@ -1,0 +1,38 @@
+Intro menee näin:
+
+D:--2---------------------
+A:-------0-3-----0-2-----
+E:-----------------------0--
+
+
+
+Säkeen aikana:
+
+ D ---------------------
+ A -----0-3---0---2-----
+ E -0---------------0---
+
+ C | E | F | H
+ "yön aavat notkuu märkää..."
+
+ Kertosäe ja se osa sitä ennen:
+ E | A | C | H
+
+ Väliosassa tulee G:tä, ja siinä nousussa H:sta puolen sävelaskelen välein
+ E:hen asti.
+
+ Nousun jälkeen tulee 2 kertaa bassolla:
+
+ A -5-7---5-7---5-7---5-7-----
+ E -----------------------5-7-
+
+ Sitten tulee:
+
+ D --------------------
+ A -7-9-10-9-7-----7---
+ E ------------8-----7- (vikalla kerralla H tulee oktaavia korkeampaa.)
+
+ Kaksi vikaa kertaa biisin lopussa kertosäkeessä menee:
+
+ E | A | C | D#
+

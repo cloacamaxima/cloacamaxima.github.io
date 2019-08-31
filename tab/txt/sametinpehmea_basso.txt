@@ -1,0 +1,65 @@
+Tässä siis bassoversio selvyyden vuoksi.
+
+
+INTRO
+
+A |--------------5-----|
+E |--0-0-0-0--1-----6--| x1
+
+
+A |--------5-----|
+E |--0--1-----6--| x1
+
+
+A |------------5-----------|
+E |--0--1-1-1-1---6-6-6-6--| x1
+
+
+A |--------5-----|
+E |--0--1-----6--| x1
+
+
+
+"ei sametinpehmeä mies, ei sametin.."
+
+
+A |---5---3--|
+E |--3-3-4-4-| x3 E |-2-2-2-2--|
+
+
+A |---5---3--|
+E |--3-3-4-4-| x3 E |-1-1-1-1--|
+
+
+"Ole sinun rakastettusi.."
+
+
+E |-0-00-00-00-0-4-3-6-5--| x8
+(kitara demppaa ensimmäiset neljä kertaa)
+
+
+"KERTSI"
+
+
+E |-0-2-3-0-4-3-0-1-2-0-2-3-0-4-3-0-1-2--| x4
+(aina kahden kerran väliin "rumpufilli")
+
+
+
+"Mutta sametinpehmeä on.."
+
+A |------------5---------|
+E |-0-----1---------6----| 
+
+"Samaelin huulet.."
+
+A |--6-5-5------------|
+E |-----7-7-6-5-2--3--|
+
+Loppu on toistoa. Ilmeisesti.
+
+Outrossa kitara soittaa myös bassokuviota.
+Elikä outro on periaatteessa:
+
+A |---5---3--|
+E |--3-3-4-4-| x3 E |-2-2-2-2--|

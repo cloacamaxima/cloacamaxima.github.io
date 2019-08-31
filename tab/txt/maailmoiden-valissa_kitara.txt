@@ -1,0 +1,51 @@
+Intro:
+A | x4
+
+A5 C#5 D5 C#5
+tässä on raja
+me olemme nähneet sen ennenkin
+tästä alkaa tuntematon
+tästä alkaa matka
+
+G | E D | x2
+
+A | x4
+
+A5 C#5 D5 C#5
+unen värit
+satatuhatta astetta
+maailma kynttilän kärjessä
+mies karhun sisässä
+
+G | E D | x2
+
+Kerto:
+A               F      D | E C |
+    maailmoiden välissä
+A               F      D | E C |
+    maailmoiden välissä
+
+A | x4
+
+A5 C#5 D5 C#5 A5 C#5 D5 C#5 | x8
+[epämääräistä örinää]
+
+G | E D | x2
+
+kerto x2
+
+Hauskoja soittohetkiä!
+
+----------------------------------
+Lisäys (harborcoat)
+kertosäkeessä on tällanen:
+
+D-----14-------10--------------------
+A---14--14---10--10----------------------
+E-12-------8------------------------
+
+Sellasta. Ja jos ei tuo nopea A-C#-D hoidu niin koettakaapa tätä, ei ihan yhtä paha soittaa:
+
+D---0---0---0---0--
+A--4-4-4-4-4-4-4-4-
+E-5---5---5---5---5

@@ -1,0 +1,89 @@
+Ja tästä lähtee: (Avgår från spår två)
+
+
+e:<--------------------------------------------------->
+h:<--------------------------------------------------->
+g:<-----------------9-9-9-9-9-9-9-9-12-12-12-12-12-12->
+d:<-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-12-12-12-12-12-12->
+a:<-9-9-9-9-9-9-9-9-7-7-7-7-7-7-7-7-10-10-10-10-10-10->
+e:<-7-7-7-7-7-7-7-7----------------------------------->
+-
+Versessä on jotain kusista tiluttelua ja basso 
+vetelee tälviisiin:
+
+
+g:<---------------------------------------------------------------->
+d:<---------------------------------2-2-2-2-2-2-2-2---------------->
+a:<-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-------------------------------->
+e:<------------------------------------------------3-3-3-3-3-3-3-3->
+
+Ja sitte se nk. siltariffi:
+Tämä toimii parhaiten (ja helpoiten) sillä lailla,
+että pistät etusormen barréksi 7. väliin, ja vaihdat
+vaan pikkusormen paikkaa. Ainakin allekirjoittaneella
+kuulostaa paskalta jos siirrän koko otteen, mutta kukin
+taaplaa tyylillään...
+(kuulostaa muuten harvinaisen paljon Luuhamaran vastaavalta..)
+
+e:<---------------------> 
+h:<---------------------> 
+g:<--------------------->  
+d:<-9--9-9-9--9--9--9-9->  
+a:<-7--9-7-9--7--9--7-9-> 
+e:<----7---7-----7----7-> 
+
+Ja kertosäe on arvoitus sinänsä, jostain syystä en saa selvää
+onko sointukierto sama kuin introssa. Mutta jos se ei ole, niin se 
+menee näin:
+
+		H5	       D5	
+		Tahdotko pois, tahdotko mielesi
+		G5   
+		omana omana omana omana omana...
+		  (aloita intro tässä vaiheessa)
+		...pitää
+
+Ja huomaa että Geeviitonen soitetaan näin...
+
+d:<-12->
+a:<-10->
+..ja Fissä yhtä väliä alempaa.
+
+Minun näkemykseni kertosäeestä (TH):
+G|  ---------------------9-9-9-9-9-9-9-9--------------------
+D|  9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-9-5-5-5-5-5-5-5-5
+A|  9-9-9-9-9-9-9-9-7-7-7-7-7-7-7-7-5-5-5-5-5-5-5-5
+E|  7-7-7-7-7-7-7-7----------------------3-3-3-3-3-3-3-3
+
+- Korjatkaa toki, jos olen väärässä (TH)
+
+- Jos jollakulla ei ole huuliharppua tai ei osaa soittaa sitä, korvaava soolo tässä (tältä se ainakin kuulostaa, en ole varma):
+
+e----0----      e-----7777-----------
+H----2-4--      H-777-7777-7s4---2--4
+G-4----4-4 (2x) G---------------(2)(4)
+D-4------4      
+
+s= liuku
+Kolme kertaa olen tämän biisin livenä kuullut, eikä koskaan ole tässä tullut korvaavaa sooloa!
+
+Ja jos kertosäe on sama kuin intro, niin pysäytät omana-kohdassa G-femmaan. 
+Sitten koko tsydeemi alusta loppuun. Toisella kerralla versessä tulee 
+jotakin ihme liruttelua, noissa intron soinnuissa se pyörii mutta ei siitä sen enempää. 
+
+Hyvää yötä.
+
+Toisessa versessä 2. kitara soittelee harmonikoita tyyliin
+
+g:-----------<3>-----
+d:-<3>--<3>------<3>-
+- Mikä ihme se tämä on?
+
+Mutta eikös tuo siltariffi soiteta näin: A5 E5 A5 E5 ja sitä rataa. ja A5:hän menee näin:
+
+g|-2-|   ja E5: d|-2-|
+d|-2-|          a|-2-| 
+a|-0-|          E|-0-|
+
+H5                           E5            A5 
+Mitä teenkin, miksi teenkin, mitä teenkin, piru tietää...		

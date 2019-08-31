@@ -1,0 +1,137 @@
+x = dempattu kevyesti
+Intro/pääriffi:
+
+1. Kitara
+e|-7-7-9-9-10109-9-121210109-9-1010-| 
+H|----------------------------------|
+G|-4-4-6-6-7-7-6-6-9-9-7-7-6-6-7-7--|
+
+2. Kitara (soittaa samaa ideaa ja anna kielten soida.) 
+ 
+e|-------------------------|
+H|----2--3--2--5--3--2--3--|
+G|-4-----------------------|
+
+kertsi:+pääriffi (1. kitaran riffi pysyy teoriassa samana kuin introssa, 
+mutta koska muu ryhmä aloittaa 1/8 nuotin "myöhässä" niin se käytännössä vähän muuttuu. Kuuntele.)
+
+E|----------------------------------------------------------------|
+B|----------------------------------------------------------------|
+G|4-4-4-2-4-4-4-2-------------------------------------------------|
+D|4-4-4-2-4-4-4-2-4-4-4-2-4-4-4-6-7-7-7-5-7-7-7-5-2-2-2-2-2-2-2-2-|
+A|2-2-2-0-2-2-2-0-4-4-4-2-4-4-4-6-7-7-7-5-7-7-7-5-2-2-2-2-2-2-2-2-|
+E|----------------2-2-2-0-2-2-2-4-5-5-5-3-5-5-5-3-0-0-0-0-0-0-0-0-|
+
+
+eli G jää lopussa soimaan
+e|5---|
+H|5---
+G|3---|
+
+1. Kitaran lopetus
+e|-12|-1210109-9-101012|-1210109-9-1010--7-|
+H|---|-----------------|-------------------|
+G|-9-|-9-7-7-6-6-7-7-9-|-9-7-7-6-6-7-7---4-|
+
+
+väliriffi:
+
+E|----------------------------
+B|----------------------------
+G|----------------------------
+D|2-2-2-2-2-2-2-2-2-2-2-2-4-4-
+A|2-2-2-2-2-2-2-2-2-2-2-2-4-4-
+E|0-0-0-0-0-0-0-0-0-0-0-0-2-2-
+      x x     x x     x x
+
+verse:
+
+"Luvannut ja väittänyt olen,
+oikeaan ja vasempaan.
+Siinä ovat tunteet hiljaa kuolleet.
+Kasvot joita käytän, ovat kovettuneet ilmeeseen.
+Pikatie jota kiidän, mustaa jäätä kiiltelee."
+
+E|----------------------------------------------------
+B|----------------------------------------------------
+G|----------------------------------------------------
+D|2-2-2-2-2-2-2-2-2-2-2-2-4-4-2-2-2-2-2-2-2-2-2-2-2-2-
+A|2-2-2-2-2-2-2-2-2-2-2-2-4-4-2-2-2-2-2-2-2-2-2-2-2-2-
+E|0-0-0-0-0-0-0-0-0-0-0-0-2-2-0-0-0-0-0-0-0-0-0-0-0-0-
+      x x     x x     x x         x x     x x     x x 
+
+ ----------------------------------------------------------------|
+ ----------------------------------------------------------------|
+ ----------------------------------------------------------------|
+ 4-4-5-5-5-5-5-5-5-5-7-7-7-7-7-7-7-7-2-2-2-2-2-2-2-2-2-2-2-2-4-4-|
+ 4-4-5-5-5-5-5-5-5-5-7-7-7-7-7-7-7-7-2-2-2-2-2-2-2-2-2-2-2-2-4-4-|
+ 2-2-3-3-3-3-3-3-3-3-5-5-5-5-5-5-5-5-0-0-0-0-0-0-0-0-0-0-0-0-2-2-|
+         x x     x x     x x     x x     x x     x x     x x
+
+
+bridge:
+
+"Taivas oli ennen toinen ääri, toinen helvettiin.
+Tänään on se väärin että uskoo ihmeisiin.
+Että uskoo tyhmyydelle jonkin mitattavan rajan,
+ajan jolloin karja suostuu teurasautoihin."
+
+E|---------------------------------------------------------------------
+B|---------------------------------------------------------------------
+G|--------2---------------5--------------------------------------------
+D|5-------2-------2-------5------5-------7-------2-2---2-2---2-2---4-4-
+A|5-------0-------2-------3------5-------7-------2-2---2-2---2-2---4-4-
+E|3---------------0--------------3-------5-------0-0---0-0---0-0---2-2-
+
+
+bridgen melodiaosa:
+
+E|3-2-3-2-3-2-3-5-6-5-6-5-6-5-6-8-|
+
+Kertsi:
+"Terästä on jää ja routa, kohmettuneet kasvot 
+jotka allekirjoittavat murheellisen tyhjän  elämän
+loputtomat matkat jotka kulkee jotain tunteakseen 
+kysymykset joihin mitään sanottavaa elämällä, 
+mitä tällä elämällä on."
+
+Kertsi:(+pääriffi)
+
+2. väliriffin aikana toinen kitara soittaa:
+                             3x
+e|----------------------------.|----------------------------|
+H|-----10^----10^----10-12----.|----10^----10^----10-11-12-\|
+G|-----10^----10^----10-11^--- |----10^----10^----10-11-11^\|
+
+Verse:
+"Poika jonka yli käveltiin,
+hän ei enää itke.
+Poika joka kulki yksinään.
+Tahtoi tulla järkäleeksi hiekanjyvän joukkoon.
+Vuoreksi lakeuksien lomaan."
+
+Bridge:
+"Katson sinun kasvojasi, jotta voisin todistaa.
+Voimaton on todistaja, kieli hiljainen
+sanat soivat kalloissamme leukaluiden narinana
+sanat soivat korvissamme paholaisen nauruna."
+
+Kertsi:
+"Terästä on jää ja routa, kohmettuneet kasvot 
+jotka allekirjoittavat murheellisen tyhjän  elämän.
+Loputtomat matkat jotka kulkee jotain tunteakseen 
+kysymykset joihin mitään sanottavaa elämällä,
+olet tässä" 
+
+Alkuriffi:
+1. Kitara soittaa vähän varioitua kuviota, kuuntele.
+
+2. Kitara soittaa vähän tiheämpää kuviota. 
+e|--|--------------------------------|
+H|--|-0---2---3---2---5---3---2---3--|
+G|-4|---4---4---4---4---4---4---4---4|
+
+
+Kertsi:(Laulu+yllä olevat riffit)
+
+Kertsin sanotuksessa virhe.
